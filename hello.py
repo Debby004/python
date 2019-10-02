@@ -1,5 +1,5 @@
 import turtle
-
+a =123
 turtle.pensize(4)
 
 turtle.pencolor('red')
